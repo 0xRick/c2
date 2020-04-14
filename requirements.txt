@@ -1,0 +1,4 @@
+netifaces
+flask
+readline
+pycrypto
